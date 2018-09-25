@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\asif\desktop\linear_regression\linear_regression\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Linear_Regression.vcxproj -> C:\Users\Asif\Desktop\Linear_Regression\Debug\Linear_Regression.exe
